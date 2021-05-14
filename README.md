@@ -1,4 +1,4 @@
-# Today_I_Learned
+# Today I Learned
 
 Tech Blog [➡️](https://mauv2sky.medium.com/)
 <br><br>
